@@ -1,8 +1,6 @@
-# Sav
+# Sav Frontend
 
-## What is Sav ?
-
-[Sav](https://spotify-artwork-app.vercel.app/) is spotify artwork viewer inspired by itunes artwork screensaver. 
+([WIP] Spotify Player and) Artwork Viewer inspired by iTunes Artwork Screensaver
 
 It is a web app, it works on any device, but it is currently optimized for 1920 * 1080 displays. Therefore, I recommend viewing this web app on your computer, not your smartphone.
 
